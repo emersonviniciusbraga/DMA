@@ -8,6 +8,5 @@
  * __Diagrama do circuito:__
 
 <div style="display: inline_block">
-    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/hardware/diagrama.PNG" alt="Diagrama do circuito.">
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/hardware/diagrama1.png" alt="Diagrama do circuito.">
 </div>
