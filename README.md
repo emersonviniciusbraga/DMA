@@ -29,7 +29,7 @@
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/estilo%20painel/img/painel_monitoramento.PNG">
 </div><br>
 
-### * __Exemplo de Gráfico:__ 
+###  * __Exemplo de Gráfico:__ 
 
 <div style="display: inline_block">
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/estilo%20painel/img/grafico_temperatura.PNG">
