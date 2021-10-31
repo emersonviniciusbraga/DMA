@@ -14,7 +14,23 @@
 ### * __Página Inicial do Sistema:__
 
 <div style="display: inline_block">
-    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/Estilo%20Index/img/index1.PNG"><br>
-</div>
+    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/Estilo%20Index/img/index1.PNG">
+</div><br>
 
 ### * __Painel de Sistemas:__ 
+
+<div style="display: inline_block">
+    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/estilo%20painel/img/painel_sistemas.PNG">
+</div><br>
+
+### * __Painel de Monitoramento:__ 
+
+<div style="display: inline_block">
+    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/estilo%20painel/img/painel_monitoramento.PNG">
+</div><br>
+
+### * __Exemplo de Gráfico:__ 
+
+<div style="display: inline_block">
+    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/estilo%20painel/img/grafico_temperatura.PNG">
+</div><br>
