@@ -7,6 +7,6 @@
 compreensível ao cliente assim como o histórico das medições por meio de um sistema web com cadastro específico que recebe os dados diretamente dos sensores para que o avicultor possa ter um maior controle sobre a saúde de seus animais.</p>
 
 <div style="display: inline_block">
-    <img src="hardware/diagrama.svg" alt="Diagrama do circuito.">
+    <img src="https://github.com/emersonviniciusbraga/DMA/blob/main/hardware/diagrama.PNG" alt="Diagrama do circuito.">
     ![Alt text](hardware/diagrama.png?raw=true "Diagrama do circuito.")
 </div>
