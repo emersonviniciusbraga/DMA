@@ -8,4 +8,5 @@ compreensível ao cliente assim como o histórico das medições por meio de um 
 
 <div style="display: inline_block">
     <img src="hardware/diagrama.svg" alt="Diagrama do circuito.">
+    ![Alt text](hardware/diagrama.png?raw=true "Diagrama do circuito.")
 </div>
