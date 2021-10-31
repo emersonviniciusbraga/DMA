@@ -15,7 +15,4 @@
 
 <div style="display: inline_block">
     <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/Estilo%20Index/img/index1.PNG"><br>
-    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/Estilo%20Index/img/index2.PNG"><br>
-    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/Estilo%20Index/img/index3.PNG"><br>
-    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/DMA/blob/main/Estilo%20Index/img/index4.PNG">
 </div>
