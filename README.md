@@ -7,5 +7,5 @@
 compreensível ao cliente assim como o histórico das medições por meio de um sistema web com cadastro específico que recebe os dados diretamente dos sensores para que o avicultor possa ter um maior controle sobre a saúde de seus animais.</p>
 
 <div style="display: inline_block">
-    <img src="?/diagrama.png" alt="Diagrama do circuito.">
+    <img src="hardware/diagrama.svg" alt="Diagrama do circuito.">
 </div>
