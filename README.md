@@ -1,4 +1,4 @@
-# D.M.A. - Dispositivo de Monitoramento de Aviários <h1>
+# D.M.A. - Dispositivo de Monitoramento de Aviários
 
 Este projeto buscou a criação de um sistema automatizado de monitoramento do nível
 de Amônia em aviários, que tem sido um problema encontrado por grandes e
