@@ -1,9 +1,9 @@
 # D.M.A. - Dispositivo de Monitoramento de Aviários <h1>
 
-<p>Este projeto busca a criação de um sistema automatizado de monitoramento do nível
+Este projeto buscou a criação de um sistema automatizado de monitoramento do nível
 de Amônia em aviários, que tem sido um problema encontrado por grandes e
-pequenos produtores e ameaça diretamente o desenvolvimento das aves. A fim de
-desenvolver o objetivo proposto e a resolução do problema apresentado, foi pensado
+pequenos produtores e ameaça diretamente o desenvolvimento das aves.
+<!-- A fim de desenvolver o objetivo proposto e a resolução do problema apresentado, foi pensado
 e desenvolvido um dispositivo que identifica os níveis de gases específicos como
 também a temperatura e umidade do ambiente em tempo real. Para a criação do
 dispositivo foi usado um microcontrolador que agirá junto a dois sensores, onde os
@@ -16,4 +16,4 @@ a vida dos pequenos avicultores, e também apresentou uma excelente interação 
 o sistema web, apesar de que, o sensor de gás mostrou muita instabilidade nos
 resultados das medições, devido ele conseguir medir vários tipos de gases, por conta
 disso faz-se necessário a tocar desse sensor para um mais avançado, onde o mesmo
-trabalhe somente com leituras de amônia.</p>
+trabalhe somente com leituras de amônia.</p> -->
